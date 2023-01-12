@@ -10,7 +10,7 @@ Lock and unlock different files and if you encounter any problem, let us know so
 # Lockfile
 Zip the files you want and in the address ./The location of the code file/Data/Unlock copy
 Import or run the code and enter the following command:
-Zbyner.Unlockbyner('File name' , 'File name after encryption') +(No extension)+
+Zbyner.Unlockbyner('File name' , 'File name after encryption') (No extension)
 After encryption, the program closes
 Go to the address below and get your encrypted file:
 ./The location of the code file/Data/Lock/File name after encryption
