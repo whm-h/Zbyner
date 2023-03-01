@@ -1,0 +1,6 @@
+print(102)
+a = open(".\\files\\asd.zip","br")
+qr = a.read()
+qw = qr.replace(b'1234', b"PK")
+b = open(".\\files\\asd.zip","bw")
+b.write(qw)
